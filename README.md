@@ -31,3 +31,16 @@ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+## Todos
+
+| Action                         | Deadline   | Description   |
+| ------------------------------ | ---------- | ------------- |
+| Publish process                | 2021-04-11 | Github action |
+| DNS Mapping for public website |            | Johanna       |
+
+- Required pages
+  - Imprint
+  - Contact
+  - Menu
+  - Startpage
