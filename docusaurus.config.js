@@ -18,9 +18,13 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          to: 'speisekarte',
+          label: 'Speisekarte',
+          position: 'left',
+        },
+        {
+          to: 'Kontakt',
+          label: 'Kontakt',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
