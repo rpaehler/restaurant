@@ -3,7 +3,7 @@ module.exports = {
   title: 'raphaels internetseite',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/restaurant/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
